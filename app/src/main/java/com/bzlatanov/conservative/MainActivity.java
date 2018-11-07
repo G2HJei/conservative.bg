@@ -36,7 +36,7 @@ public class MainActivity extends Activity {
             }
         });
 
-        mWebview.loadUrl("http://www.conservative.bg");
+        mWebview.loadUrl("http://www.conservative.bg/");
         setContentView(mWebview);
 
     }
